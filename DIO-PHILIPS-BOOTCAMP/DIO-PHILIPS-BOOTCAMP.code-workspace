@@ -20,6 +20,12 @@
 		},
 		{
 			"path": "variaveisTipos-bootcampPhilipsDIO"
+		},
+		{
+			"path": "modulos"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "modulos"
+	}
 }
