@@ -23,9 +23,12 @@
 		},
 		{
 			"path": "modulos"
+		},
+		{
+			"path": "Funcoes-javascript"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "modulos"
+		"liveServer.settings.multiRootWorkspaceName": "Funcoes-javascript"
 	}
 }
