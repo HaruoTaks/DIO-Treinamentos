@@ -1,31 +1,40 @@
 {
 	"folders": [
 		{
-			"path": "aula_bootstrap_dio"
-		},
-		{
-			"path": "CURSO-HTML5"
-		},
-		{
+			"name": "dio-desafio-github-primeiro-repositorio",
 			"path": "dio-desafio-github-primeiro-repositorio"
 		},
 		{
-			"path": "FLEXBOX-DIO-BOOTCAMP"
-		},
-		{
+			"name": "JavaScript-durante-a-aula-DIO",
 			"path": "JavaScript-durante-a-aula-DIO"
 		},
 		{
+			"name": "Sintaxe-operadores-DIO-PHILIPS-BOOTCAMPJS",
 			"path": "Sintaxe-operadores-DIO-PHILIPS-BOOTCAMPJS"
 		},
 		{
+			"name": "variaveisTipos-bootcampPhilipsDIO",
 			"path": "variaveisTipos-bootcampPhilipsDIO"
 		},
 		{
+			"name": "modulos",
 			"path": "modulos"
 		},
 		{
+			"name": "Funcoes-javascript",
 			"path": "Funcoes-javascript"
+		},
+		{
+			"name": "FLEXBOX-DIO-BOOTCAMP",
+			"path": "FLEXBOX-DIO-BOOTCAMP"
+		},
+		{
+			"name": "aula_bootstrap_dio",
+			"path": "aula_bootstrap_dio"
+		},
+		{
+			"name": "CURSO-HTML5",
+			"path": "CURSO-HTML5"
 		}
 	],
 	"settings": {
