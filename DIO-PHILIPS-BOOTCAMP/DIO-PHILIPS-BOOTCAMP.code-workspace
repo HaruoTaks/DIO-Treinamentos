@@ -35,6 +35,9 @@
 		{
 			"name": "CURSO-HTML5",
 			"path": "CURSO-HTML5"
+		},
+		{
+			"path": "JavaScript-Colecoes"
 		}
 	],
 	"settings": {
