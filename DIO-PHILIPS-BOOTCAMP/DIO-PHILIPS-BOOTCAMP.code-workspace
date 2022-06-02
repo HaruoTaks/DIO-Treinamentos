@@ -5,6 +5,18 @@
 			"path": "dio-desafio-github-primeiro-repositorio"
 		},
 		{
+			"name": "CURSO-HTML5",
+			"path": "CURSO-HTML5"
+		},
+		{
+			"name": "aula_bootstrap_dio",
+			"path": "aula_bootstrap_dio"
+		},
+		{
+			"name": "FLEXBOX-DIO-BOOTCAMP",
+			"path": "FLEXBOX-DIO-BOOTCAMP"
+		},
+		{
 			"name": "JavaScript-durante-a-aula-DIO",
 			"path": "JavaScript-durante-a-aula-DIO"
 		},
@@ -17,39 +29,35 @@
 			"path": "variaveisTipos-bootcampPhilipsDIO"
 		},
 		{
-			"name": "modulos",
-			"path": "modulos"
+			"name": "Javascript-Modulos",
+			"path": "Javascript-Modulos"
 		},
 		{
 			"name": "Funcoes-javascript",
 			"path": "Funcoes-javascript"
 		},
 		{
-			"name": "FLEXBOX-DIO-BOOTCAMP",
-			"path": "FLEXBOX-DIO-BOOTCAMP"
-		},
-		{
-			"name": "aula_bootstrap_dio",
-			"path": "aula_bootstrap_dio"
-		},
-		{
-			"name": "CURSO-HTML5",
-			"path": "CURSO-HTML5"
-		},
-		{
+			"name": "JavaScript-Colecoes",
 			"path": "JavaScript-Colecoes"
 		},
 		{
+			"name": "JavaScript-Debugging e Error Handling",
 			"path": "JavaScript-Debugging e Error Handling"
 		},
 		{
+			"name": "Javascript-Orientacao a objetos",
 			"path": "Javascript-Orientacao a objetos"
 		},
 		{
+			"name": "Javascript-Assíncrono",
 			"path": "Javascript-Assíncrono"
+		},
+		{
+			"name": "Desafio de código - Javascript",
+			"path": "Desafio de código - Javascript"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Javascript-Assíncrono"
+		"liveServer.settings.multiRootWorkspaceName": "Desafio de código - Javascript"
 	}
 }
