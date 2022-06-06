@@ -7,11 +7,11 @@ let quantidadePositivos = 0;
 for (let i = 0; i < 6; i++) {
 
   const valorInformadoPeloUsuario = gets();
-
+  // verifica se o número é positivo
   if (valorInformadoPeloUsuario >0){
+    // caso seja positivo ele adiciona +1 na quantidade de números positivos
     quantidadePositivos++;
   }
-//TODO: Complete os espaços em branco com uma possível solução para o desafio
 }
 
 print(`${quantidadePositivos} valores positivos`);
