@@ -1,7 +1,45 @@
+body {
+    background: #fafafa;
+}
 .dino {
-    width: 60px;
-    height: 60px;
-    background: green;
     position: absolute;
     bottom: 0;
+    background-image: url(source/dino.png);
+    width: 60px;
+    height: 60px;
+}
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background-image: url(source/cactus.png);
+}
+
+.game-over {
+    text-align: center;
+    color: #666666;
+    margin-top: 50px;
+    font-family: Arial;
+}
+
+@keyframes slideright {
+    from {
+        background-position: 70000%;
+    }
+
+    to {
+        background-position: 0;
+    }
+}
+
+.backgrond {
+    position: absolute;
+    bottom: 0;
+    background-image: url(/source/background.png);
+    background-repeat: repeat-x;
+    animation: slideright 600s infinite linear;
+    width: 100%;
+    height: 200px;
 }
